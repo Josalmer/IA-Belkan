@@ -1,0 +1,9 @@
+/home/jose/Documentos/INFORMATICA 2017-2021/2 SEGUNDO CURSO 2018-2019/IA/practicas/practica2/belkan/CMakeFiles/rebuild_cache.dir
+/home/jose/Documentos/INFORMATICA 2017-2021/2 SEGUNDO CURSO 2018-2019/IA/practicas/practica2/belkan/CMakeFiles/edit_cache.dir
+/home/jose/Documentos/INFORMATICA 2017-2021/2 SEGUNDO CURSO 2018-2019/IA/practicas/practica2/belkan/CMakeFiles/BelkanSG.dir
+/home/jose/Documentos/INFORMATICA 2017-2021/2 SEGUNDO CURSO 2018-2019/IA/practicas/practica2/belkan/CMakeFiles/GLUILib.dir
+/home/jose/Documentos/INFORMATICA 2017-2021/2 SEGUNDO CURSO 2018-2019/IA/practicas/practica2/belkan/CMakeFiles/Belkan.dir
+/home/jose/Documentos/INFORMATICA 2017-2021/2 SEGUNDO CURSO 2018-2019/IA/practicas/practica2/belkan/CMakeFiles/obj3DLib.dir
+/home/jose/Documentos/INFORMATICA 2017-2021/2 SEGUNDO CURSO 2018-2019/IA/practicas/practica2/belkan/CMakeFiles/motorLib.dir
+/home/jose/Documentos/INFORMATICA 2017-2021/2 SEGUNDO CURSO 2018-2019/IA/practicas/practica2/belkan/CMakeFiles/modelosBelkanLib.dir
+/home/jose/Documentos/INFORMATICA 2017-2021/2 SEGUNDO CURSO 2018-2019/IA/practicas/practica2/belkan/CMakeFiles/comportamientosLib.dir
